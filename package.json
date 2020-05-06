@@ -1,0 +1,13 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task1": "parcel ./task1/index.html",
+    "task2": "parcel ./task2/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
